@@ -1,2 +1,3 @@
 # GameHelpers2D-Unity
-gives prompts to show the player what button to press when they enter a certain unity
+Shows Players What To do by fading in sprites in unity 2d. 
+Sprites are interchangable and you can change the area of detection.
